@@ -1,2 +1,4 @@
 # Hello_Sailor
-Greets the matelot
+Hi,
+
+This is Chris here fluffing about with a Sailor.
